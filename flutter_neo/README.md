@@ -1,16 +1,16 @@
-# flutter_neo
+# To-Do App
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş basit ve kullanışlı bir To-Do uygulamasıdır. Uygulama, kullanıcıların günlük işlerini ve görevlerini takip etmelerine olanak tanır. Modern ve sade bir arayüze sahip olan bu uygulama, kullanıcı deneyimini ön planda tutarak tasarlanmıştır. 
 
-## Getting Started
+## Amacı
 
-This project is a starting point for a Flutter application.
+To-Do App, kullanıcıların verimliliğini artırmayı ve işlerini daha iyi organize etmelerini sağlamayı amaçlamaktadır. Günlük hayatta yapılacak işlerin listelenmesi, tamamlanması ve takip edilmesi konularında yardımcı olur. Kullanıcılar, bu uygulama sayesinde yapılacak işlerini unutmadan düzenli bir şekilde yönetebilirler.
 
-A few resources to get you started if this is your first Flutter project:
+## Temel Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **İş Ekleme:** Kullanıcılar, yapılacak işlerini basit ve hızlı bir şekilde ekleyebilirler.
+- **Listeleme:** Tüm eklenen işler, kullanıcıların görebileceği şekilde listelenir.
+- **İşaretleme:** Tamamlanan işler, işaretlenerek ayırt edilir.
+- **Silme:** Kullanıcılar, tamamlanan veya gereksiz işleri silebilirler.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeyi kullanmaya başlamak için kurulum ve çalıştırma talimatlarını takip edebilir, katkıda bulunmak için pull request gönderebilir veya geri bildirimde bulunabilirsiniz.
