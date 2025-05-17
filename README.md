@@ -9,4 +9,4 @@ Temel Özellikler
 Listeleme: Tüm eklenen işler, kullanıcıların görebileceği şekilde listelenir.
 İşaretleme: Tamamlanan işler, işaretlenerek ayırt edilir.
 Silme: Kullanıcılar, tamamlanan veya gereksiz işleri silebilirler.
-Projeyi kullanmaya başlamak için kurulum ve çalıştırma talimatlarını takip ed
+
