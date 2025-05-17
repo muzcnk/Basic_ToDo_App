@@ -1,4 +1,6 @@
 To-Do App
+
+
 Bu proje, Flutter kullanılarak geliştirilmiş basit ve kullanışlı bir To-Do uygulamasıdır. Uygulama, kullanıcıların günlük işlerini ve görevlerini takip etmelerine olanak tanır. Modern ve sade bir arayüze sahip olan bu uygulama, kullanıcı deneyimini ön planda tutarak tasarlanmıştır.
 
 Amacı
